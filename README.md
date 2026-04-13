@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **[<img src="https://img.shields.io/badge/React-22272e?style=flat&logoColor=61DBFB&logo=React" />, <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white" />]**
 
-- 📫 How to reach me **suiciniv2016+github@outlook.com**
+- 📫 How to reach me **marcosvnmelo.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
