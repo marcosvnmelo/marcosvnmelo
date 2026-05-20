@@ -1,0 +1,77 @@
+<svg width="104.25" height="48" viewBox="0 0 556 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <g transform="translate(0, 0)">
+    <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <title>Crawlee</title>
+      <rect width="256" height="256" rx="60" fill="#242938"/>
+      <g clip-path="url(#a)" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M27.026 26H1.476c-.366 0-.594-.411-.412-.742l6.389-11.506L13.84 2.246a.466.466 0 0 1 .822 0l4.11 7.402a5.667 5.667 0 0 0 1.364 11.166 5.64 5.64 0 0 0 3.947-1.602l3.356 6.046c.182.328-.046.742-.412.742Z" fill="url(#a)" stroke="url(#b)" stroke-width="1.014" transform="translate(26 25)scale(7.31429)"/>
+        <path d="M25.826 17.007A5.665 5.665 0 0 1 15 14.665a5.665 5.665 0 0 1 8.119-5.108" stroke="url(#c)" stroke-width="1.952" transform="translate(26 25)scale(7.31429)"/>
+      </g>
+      <defs>
+        <linearGradient id="a" x1="27.504" y1="2" x2="3.622" y2="28.374" gradientUnits="userSpaceOnUse">
+          <stop offset=".001" stop-color="#ffb200"/>
+          <stop offset=".081" stop-color="#ffb100"/>
+          <stop offset=".156" stop-color="#ffaf02"/>
+          <stop offset=".225" stop-color="#feab04"/>
+          <stop offset=".291" stop-color="#fda606"/>
+          <stop offset=".353" stop-color="#fca00a"/>
+          <stop offset=".413" stop-color="#fb980e"/>
+          <stop offset=".471" stop-color="#fa9013"/>
+          <stop offset=".529" stop-color="#f98618"/>
+          <stop offset=".587" stop-color="#f77b1e"/>
+          <stop offset=".647" stop-color="#f56f24"/>
+          <stop offset=".709" stop-color="#f3632b"/>
+          <stop offset=".774" stop-color="#f25532"/>
+          <stop offset=".844" stop-color="#ef473a"/>
+          <stop offset=".918" stop-color="#ed3842"/>
+          <stop offset=".999" stop-color="#eb284b"/>
+        </linearGradient>
+        <linearGradient id="b" x1="27.504" y1="2" x2="3.622" y2="28.374" gradientUnits="userSpaceOnUse">
+          <stop offset=".001" stop-color="#ffb200"/>
+          <stop offset=".081" stop-color="#ffb100"/>
+          <stop offset=".156" stop-color="#ffaf02"/>
+          <stop offset=".225" stop-color="#feab04"/>
+          <stop offset=".291" stop-color="#fda606"/>
+          <stop offset=".353" stop-color="#fca00a"/>
+          <stop offset=".413" stop-color="#fb980e"/>
+          <stop offset=".471" stop-color="#fa9013"/>
+          <stop offset=".529" stop-color="#f98618"/>
+          <stop offset=".587" stop-color="#f77b1e"/>
+          <stop offset=".647" stop-color="#f56f24"/>
+          <stop offset=".709" stop-color="#f3632b"/>
+          <stop offset=".774" stop-color="#f25532"/>
+          <stop offset=".844" stop-color="#ef473a"/>
+          <stop offset=".918" stop-color="#ed3842"/>
+          <stop offset=".999" stop-color="#eb284b"/>
+        </linearGradient>
+        <linearGradient id="c" x1="25.826" y1="9" x2="14.506" y2="19.815" gradientUnits="userSpaceOnUse">
+          <stop offset=".001" stop-color="#ffb200"/>
+          <stop offset=".081" stop-color="#ffb100"/>
+          <stop offset=".156" stop-color="#ffaf02"/>
+          <stop offset=".225" stop-color="#feab04"/>
+          <stop offset=".291" stop-color="#fda606"/>
+          <stop offset=".353" stop-color="#fca00a"/>
+          <stop offset=".413" stop-color="#fb980e"/>
+          <stop offset=".471" stop-color="#fa9013"/>
+          <stop offset=".529" stop-color="#f98618"/>
+          <stop offset=".587" stop-color="#f77b1e"/>
+          <stop offset=".647" stop-color="#f56f24"/>
+          <stop offset=".709" stop-color="#f3632b"/>
+          <stop offset=".774" stop-color="#f25532"/>
+          <stop offset=".844" stop-color="#ef473a"/>
+          <stop offset=".918" stop-color="#ed3842"/>
+          <stop offset=".999" stop-color="#eb284b"/>
+        </linearGradient>
+      </defs>
+    </svg>
+  </g>
+  <g transform="translate(300, 0)">
+    <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <title>Apify</title>
+      <rect width="256" height="256" rx="60" fill="#242938"/>
+      <path d="M141.168 38.4h73.717c1.5 0 2.715 1.215 2.715 2.715v112.66c0 2.698-3.51 3.745-4.987 1.487l-73.718-112.66c-1.182-1.806.113-4.202 2.273-4.202" fill="#246dff"/>
+      <path d="M114.832 38.4H41.115a2.714 2.714 0 0 0-2.715 2.715v112.66c0 2.698 3.509 3.745 4.987 1.487l73.718-112.66c1.182-1.806-.113-4.202-2.273-4.202" fill="#20a34e"/>
+      <path d="m126.737 128.599-83.744 84.374c-1.7 1.713-.488 4.627 1.93 4.627h166.226c2.406 0 3.623-2.894 1.942-4.613l-82.485-84.374a2.715 2.715 0 0 0-3.87-.014" fill="#f86606"/>
+    </svg>
+  </g>
+</svg>
