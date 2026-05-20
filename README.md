@@ -4,6 +4,7 @@
 <p align="center">
   <a href="mailto:marcosvnmelo.dev@gmail.com"><img src="https://img.shields.io/badge/Email-marcosvnmelo.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/marcosvnmelo"><img src="https://img.shields.io/badge/LinkedIn-marcosvnmelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <br/>
   <a href="https://github.com/marcosvnmelo"><img src="https://img.shields.io/badge/GitHub-marcosvnmelo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=marcosvnmelo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
@@ -148,8 +149,8 @@
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcosvnmelo&show_icons=true&theme=onedark&locale=en&count_private=true" alt="Marcos Melo GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosvnmelo&show_icons=true&theme=onedark&locale=en&layout=compact&count_private=true" alt="Marcos Melo top languages" />
+  <img height="165" src="./profile/stats.svg" alt="Marcos Melo GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Marcos Melo top languages" />
 </p>
 
 <p align="center">
