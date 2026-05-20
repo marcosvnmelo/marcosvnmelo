@@ -154,5 +154,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosvnmelo&theme=onedark&count_private=true" alt="Marcos Melo GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosvnmelo&theme=onedark&mode=weekly&count_private=true" alt="Marcos Melo GitHub streak" />
 </p>
